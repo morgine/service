@@ -1,4 +1,4 @@
-// Copyright 2018 orivil.com. All rights reserved.
+// Copyright 2018 morgine.com. All rights reserved.
 
 package service_test
 
